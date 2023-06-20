@@ -1,0 +1,48 @@
+.container {
+   padding: 10px;
+   margin: 0 auto;
+   width: 300px;
+   height: 60px;
+   background-color: black;
+}
+
+.js-input-a {
+   margin: 5px;
+   padding: 2px;
+   width: 40px;
+   height: 24px;
+   background-color: orange;
+}
+
+.js-input-b {
+   margin: 5px;
+   padding: 2px;
+   width: 40px;
+   height: 24px;
+   background-color: orange;
+}
+
+.js-select-operation {
+   margin: 5px;
+   padding: 2px;
+   width: 40px;
+   height: 30px;
+   background-color: orange;
+   font-size: 15px;
+}
+
+.js-btn-result {
+   margin: 5px;
+   padding: 2px;
+   width: 106px;
+   height: 30px;
+   background-color: orange;
+   font-size: 17px;
+}
+
+.js-output {
+   margin-top: -3px;
+   margin-left: 240px;
+   font-size: 22px;
+   color: white;
+}
